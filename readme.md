@@ -14,6 +14,8 @@ Beneath the starry sky, an enigmatic item gleamed amidst ancient remains. Intrig
 <<<<<<< HEAD
 
 La lettre était une déclaration d'amour écrite par un mystérieux inconnu. Clara décida de suivre les indices dissimulés dans la lettre pour découvrir l'identité de l'auteur. Ce voyage la conduisit vers des secrets enfouis depuis des générations.
+
+Once upon a time, there was a peaceful kingdom nestled within the embrace of majestic mountains. Its inhabitants lived in harmony with the mystical creatures that populated these lands. Among them, the dragons stood out for their grandeur and power.
 =======
 >>>>>>> 9bda210ccba833f20a242133be5bc4c1e7036c24
 >>>>>>> ff1d1158582d7475917a3f6993954f6a6bfd90fe
